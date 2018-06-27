@@ -114,16 +114,29 @@ var Translations = {
      */
     "ChapterSettings": [
         {
-            "label": "Introduction",
+            "label": "INTRODUCTION",
             "states": [
                 {
                     "cardId": "START",
-                    "width": 20
+                    "width": 10
                 }
             ]
         },
         {
-            "label": "Your Account",
+            "label": "HELPING YOU",
+            "states": [
+                {
+                    "cardId": "77a834f0",
+                    "width": 10
+                },
+                {
+                    "cardId": "c23a68c9",
+                    "width": 10
+                }
+            ]
+        },
+        {
+            "label": "PERSONALIZATION",
             "states": [
                 {
                     "cardId": "77a834f0",
@@ -136,11 +149,50 @@ var Translations = {
             ]
         },
         {
-            "label": "Thank You",
+            "label": "SERVICE TOUR",
+            "states": [
+                {
+                    "cardId": "77a834f0",
+                    "width": 10
+                },
+                {
+                    "cardId": "c23a68c9",
+                    "width": 10
+                }
+            ]
+        },
+        {
+            "label": "OPTIONAL INFORMATION",
+            "states": [
+                {
+                    "cardId": "77a834f0",
+                    "width": 10
+                },
+                {
+                    "cardId": "c23a68c9",
+                    "width": 10
+                }
+            ]
+        },
+        {
+            "label": "QUESTIONS",
+            "states": [
+                {
+                    "cardId": "77a834f0",
+                    "width": 10
+                },
+                {
+                    "cardId": "c23a68c9",
+                    "width": 10
+                }
+            ]
+        },
+        {
+            "label": "THANKS",
             "states": [
                 {
                     "cardId": "d0bc6b55",
-                    "width": 40
+                    "width": 10
                 }
             ]
         }
